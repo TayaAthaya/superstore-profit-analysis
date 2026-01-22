@@ -65,5 +65,5 @@ The analysis was conducted using a structured, step-by-step approach:
 ---
 
 ## Author
-Athaya AKbar Ramdani
+Athaya Akbar Ramdani
 Data Analyst (Portfolio Project)
